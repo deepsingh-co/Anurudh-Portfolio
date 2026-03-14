@@ -1,6 +1,6 @@
-import { SplitText } from "gsap-trial/SplitText";
-import gsap from "gsap-trial";
-import { ScrollSmoother } from "gsap-trial/ScrollSmoother";
+import { SplitText } from "gsap/SplitText";
+import gsap from "gsap";
+import { ScrollSmoother } from "gsap/ScrollSmoother";
 
 export function initialFX() {
   document.body.style.overflowY = "auto";
